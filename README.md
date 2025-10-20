@@ -9,11 +9,11 @@ Proyecto base configurado con Angular 20, TailwindCSS 4, PrimeNG, y PrimeUI, ide
 | Herramienta | Versión  |
 | :---------- | :------- |
 | Node.js     | v22.20.0 |
-| Angular CLI | v20.x    |
-| TailwindCSS | v4.x     |
-| PrimeNG     | Última   |
-| PrimeUI     | Última   |
-| PrimeIcons  | Última   |
+| Angular CLI | v20.3.6  |
+| TailwindCSS | v4.1.14  |
+| PrimeNG     | v20.2.0  |
+| PrimeUI     | v0.6.1   |
+| PrimeIcons  | v7.0.0   |
 
 ---
 
