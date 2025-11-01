@@ -267,7 +267,7 @@ Ideal para desarrollos rápidos, prototipos o proyectos de producción.
 
 ## 🧑‍💻 Autor
 
-**Tu Nombre**
+**08edu02**
 
 - [📘 YouTube/Tutorial del proyecto](https://youtu.be/TB_MIvRlrEU)
 - [🐙 GitHub](https://github.com/08edu02)
